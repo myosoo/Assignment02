@@ -1,2 +1,2 @@
 # Assignment02
-Data mining class
+Chung-Ang University, Data mining class
