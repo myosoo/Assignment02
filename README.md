@@ -1,2 +1,2 @@
 # Assignment02
-Chung-Ang University, Data mining class
+This is a Data-Mining class project at Chung-Ang University
